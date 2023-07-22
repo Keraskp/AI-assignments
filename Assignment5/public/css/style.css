@@ -1,0 +1,121 @@
+body {
+    background-color: #ededed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #2e3192;
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    border: solid white 10px;
+    border-style: outset;
+}
+
+.title {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 4em;
+    text-align: center;
+    color: #343434;
+    margin: 0;
+}
+
+.heading {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 3em;
+    text-align: center;
+    color: #343434;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.color-board {
+    margin: auto;
+}
+
+.button {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    border: none;
+    border-radius: 20px;
+    border-style: outset;
+    cursor: pointer;
+    box-shadow: 0px 5px 0px darkgray;
+}
+
+#button1 {
+    background-color: red;
+}
+
+#button2 {
+    background-color: blue;
+}
+
+#button3 {
+    background-color: green;
+}
+
+#button4 {
+    background-color: yellow;
+}
+
+#button5 {
+    background-color: orange;
+}
+
+#button6 {
+    background-color: purple;
+}
+
+#button7 {
+    background-color: gray;
+}
+
+#button8 {
+    background-color: black;
+    color: white;
+}
+
+#button9 {
+    background-color: brown;
+}
+
+#button10 {
+    background-color: pink;
+}
+
+#button11 {
+    background-color: teal;
+}
+
+#button12 {
+    background-color: cyan;
+}
+
+#button13 {
+    background-color: magenta;
+}
+
+#button14 {
+    background-color: gold;
+}
+
+#button15 {
+    background-color: silver;
+}
